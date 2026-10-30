@@ -1,6 +1,6 @@
-# econ-forecast-
+# econ-forecast
 Macroeconomic forecasts using time series models 
-# econ-forecast- (Макроэкономический прогноз)
+# econ-forecast (Макроэкономический прогноз)
 
 ## 3. Вопрос (Выбранное событие)
 **Событие:** Повысит ли Банк России ключевую ставку на ближайшем заседании Совета директоров?
